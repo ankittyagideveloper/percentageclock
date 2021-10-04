@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/percentageclock/static/css/main.8583deb2.chunk.css",
+    "main.js": "/percentageclock/static/js/main.b3d5044a.chunk.js",
+    "main.js.map": "/percentageclock/static/js/main.b3d5044a.chunk.js.map",
+    "runtime-main.js": "/percentageclock/static/js/runtime-main.7aa559f5.js",
+    "runtime-main.js.map": "/percentageclock/static/js/runtime-main.7aa559f5.js.map",
+    "static/js/2.a40c066e.chunk.js": "/percentageclock/static/js/2.a40c066e.chunk.js",
+    "static/js/2.a40c066e.chunk.js.map": "/percentageclock/static/js/2.a40c066e.chunk.js.map",
+    "static/js/3.54e4733c.chunk.js": "/percentageclock/static/js/3.54e4733c.chunk.js",
+    "static/js/3.54e4733c.chunk.js.map": "/percentageclock/static/js/3.54e4733c.chunk.js.map",
+    "index.html": "/percentageclock/index.html",
+    "service-worker.js": "/percentageclock/service-worker.js",
+    "service-worker.js.map": "/percentageclock/service-worker.js.map",
+    "static/css/main.8583deb2.chunk.css.map": "/percentageclock/static/css/main.8583deb2.chunk.css.map",
+    "static/js/2.a40c066e.chunk.js.LICENSE.txt": "/percentageclock/static/js/2.a40c066e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aa559f5.js",
+    "static/js/2.a40c066e.chunk.js",
+    "static/css/main.8583deb2.chunk.css",
+    "static/js/main.b3d5044a.chunk.js"
+  ]
+}
